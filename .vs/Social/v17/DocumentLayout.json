@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Social\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|c:\\users\\acer\\source\\repos\\social\\post.commons\\events\\postremovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|solutionrelative:post.commons\\events\\postremovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|c:\\users\\acer\\source\\repos\\social\\post.commons\\events\\commentremovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|solutionrelative:post.commons\\events\\commentremovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|c:\\users\\acer\\source\\repos\\social\\post.commons\\events\\commentupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|solutionrelative:post.commons\\events\\commentupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|c:\\users\\acer\\source\\repos\\social\\post.commons\\events\\commentaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|solutionrelative:post.commons\\events\\commentaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|c:\\users\\acer\\source\\repos\\social\\post.commons\\events\\postlikeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|solutionrelative:post.commons\\events\\postlikeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|c:\\users\\acer\\source\\repos\\social\\post.commons\\events\\messageupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|solutionrelative:post.commons\\events\\messageupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|c:\\users\\acer\\source\\repos\\social\\post.commons\\events\\postcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBDBA0-A104-46E1-8D4B-AE3FBE288ACC}|POST.COMMONS\\POST.COMMONS.csproj|solutionrelative:post.commons\\events\\postcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E829E98-B86C-4822-B1BC-32651FB46A1B}|CQRS.CORE\\CQRS.CORE.csproj|c:\\users\\acer\\source\\repos\\social\\cqrs.core\\events\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E829E98-B86C-4822-B1BC-32651FB46A1B}|CQRS.CORE\\CQRS.CORE.csproj|solutionrelative:cqrs.core\\events\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|c:\\users\\acer\\source\\repos\\social\\post.cmd.api\\commands\\removepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|solutionrelative:post.cmd.api\\commands\\removepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|c:\\users\\acer\\source\\repos\\social\\post.cmd.api\\commands\\removecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|solutionrelative:post.cmd.api\\commands\\removecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|c:\\users\\acer\\source\\repos\\social\\post.cmd.api\\commands\\editcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|solutionrelative:post.cmd.api\\commands\\editcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|c:\\users\\acer\\source\\repos\\social\\post.cmd.api\\commands\\likepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|solutionrelative:post.cmd.api\\commands\\likepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|c:\\users\\acer\\source\\repos\\social\\post.cmd.api\\commands\\editmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|solutionrelative:post.cmd.api\\commands\\editmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|c:\\users\\acer\\source\\repos\\social\\post.cmd.api\\commands\\addcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|solutionrelative:post.cmd.api\\commands\\addcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|c:\\users\\acer\\source\\repos\\social\\post.cmd.api\\commands\\newpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D98BE29-1D26-4B45-A2A1-5CAF8F6DF481}|POST.CMD.API\\POST.CMD.API.csproj|solutionrelative:post.cmd.api\\commands\\newpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E829E98-B86C-4822-B1BC-32651FB46A1B}|CQRS.CORE\\CQRS.CORE.csproj|c:\\users\\acer\\source\\repos\\social\\cqrs.core\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E829E98-B86C-4822-B1BC-32651FB46A1B}|CQRS.CORE\\CQRS.CORE.csproj|solutionrelative:cqrs.core\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E829E98-B86C-4822-B1BC-32651FB46A1B}|CQRS.CORE\\CQRS.CORE.csproj|c:\\users\\acer\\source\\repos\\social\\cqrs.core\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E829E98-B86C-4822-B1BC-32651FB46A1B}|CQRS.CORE\\CQRS.CORE.csproj|solutionrelative:cqrs.core\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostRemovedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\PostRemovedEvent.cs",
+              "RelativeDocumentMoniker": "POST.COMMONS\\Events\\PostRemovedEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\PostRemovedEvent.cs",
+              "RelativeToolTip": "POST.COMMONS\\Events\\PostRemovedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:10:11.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentRemovedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\CommentRemovedEvent.cs",
+              "RelativeDocumentMoniker": "POST.COMMONS\\Events\\CommentRemovedEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\CommentRemovedEvent.cs",
+              "RelativeToolTip": "POST.COMMONS\\Events\\CommentRemovedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:08:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\CommentUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "POST.COMMONS\\Events\\CommentUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\CommentUpdatedEvent.cs",
+              "RelativeToolTip": "POST.COMMONS\\Events\\CommentUpdatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:06:10.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentAddedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\CommentAddedEvent.cs",
+              "RelativeDocumentMoniker": "POST.COMMONS\\Events\\CommentAddedEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\CommentAddedEvent.cs",
+              "RelativeToolTip": "POST.COMMONS\\Events\\CommentAddedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:03:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostLikeEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\PostLikeEvent.cs",
+              "RelativeDocumentMoniker": "POST.COMMONS\\Events\\PostLikeEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\PostLikeEvent.cs",
+              "RelativeToolTip": "POST.COMMONS\\Events\\PostLikeEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:00:53.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\MessageUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "POST.COMMONS\\Events\\MessageUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\MessageUpdatedEvent.cs",
+              "RelativeToolTip": "POST.COMMONS\\Events\\MessageUpdatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:59:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\PostCreatedEvent.cs",
+              "RelativeDocumentMoniker": "POST.COMMONS\\Events\\PostCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.COMMONS\\Events\\PostCreatedEvent.cs",
+              "RelativeToolTip": "POST.COMMONS\\Events\\PostCreatedEvent.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:55:41.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\CQRS.CORE\\Events\\BaseEvent.cs",
+              "RelativeDocumentMoniker": "CQRS.CORE\\Events\\BaseEvent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\CQRS.CORE\\Events\\BaseEvent.cs",
+              "RelativeToolTip": "CQRS.CORE\\Events\\BaseEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:51:11.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemovePostCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\RemovePostCommand.cs",
+              "RelativeDocumentMoniker": "POST.CMD.API\\Commands\\RemovePostCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\RemovePostCommand.cs",
+              "RelativeToolTip": "POST.CMD.API\\Commands\\RemovePostCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:48:17.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveCommentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\RemoveCommentCommand.cs",
+              "RelativeDocumentMoniker": "POST.CMD.API\\Commands\\RemoveCommentCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\RemoveCommentCommand.cs",
+              "RelativeToolTip": "POST.CMD.API\\Commands\\RemoveCommentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:44:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditCommentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\EditCommentCommand.cs",
+              "RelativeDocumentMoniker": "POST.CMD.API\\Commands\\EditCommentCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\EditCommentCommand.cs",
+              "RelativeToolTip": "POST.CMD.API\\Commands\\EditCommentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:43:28.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCommentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\AddCommentCommand.cs",
+              "RelativeDocumentMoniker": "POST.CMD.API\\Commands\\AddCommentCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\AddCommentCommand.cs",
+              "RelativeToolTip": "POST.CMD.API\\Commands\\AddCommentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:42:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LikePostCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\LikePostCommand.cs",
+              "RelativeDocumentMoniker": "POST.CMD.API\\Commands\\LikePostCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\LikePostCommand.cs",
+              "RelativeToolTip": "POST.CMD.API\\Commands\\LikePostCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:41:41.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditMessageCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\EditMessageCommand.cs",
+              "RelativeDocumentMoniker": "POST.CMD.API\\Commands\\EditMessageCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\EditMessageCommand.cs",
+              "RelativeToolTip": "POST.CMD.API\\Commands\\EditMessageCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:40:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewPostCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\NewPostCommand.cs",
+              "RelativeDocumentMoniker": "POST.CMD.API\\Commands\\NewPostCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\POST.CMD.API\\Commands\\NewPostCommand.cs",
+              "RelativeToolTip": "POST.CMD.API\\Commands\\NewPostCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:39:40.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\CQRS.CORE\\Commands\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "CQRS.CORE\\Commands\\BaseCommand.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\CQRS.CORE\\Commands\\BaseCommand.cs",
+              "RelativeToolTip": "CQRS.CORE\\Commands\\BaseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:38:10.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Social\\CQRS.CORE\\Messages\\Message.cs",
+              "RelativeDocumentMoniker": "CQRS.CORE\\Messages\\Message.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Social\\CQRS.CORE\\Messages\\Message.cs",
+              "RelativeToolTip": "CQRS.CORE\\Messages\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:37:17.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
