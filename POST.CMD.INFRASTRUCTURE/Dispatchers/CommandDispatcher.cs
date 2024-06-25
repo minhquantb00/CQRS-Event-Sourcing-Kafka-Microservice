@@ -17,11 +17,19 @@ namespace POST.CMD.INFRASTRUCTURE.Dispatchers
             {
                 throw new IndexOutOfRangeException("You cannot register the same command handle twice");
             }
+            _handlers.Add(typeof(T), x => handler((T)x));
         }
 
-        public Task SendAsync(BaseCommand command)
+        public async Task SendAsync(BaseCommand command)
         {
-            throw new NotImplementedException();
+            if(_handlers.TryGetValue(command.GetType(), out Func<BaseCommand, Task> handler))
+            {
+                await handler(command);
+            }
+            else
+            {
+                throw new ArgumentNullException(nameof(handler), "No command handler was registered");
+            }
         }
     }
 }
