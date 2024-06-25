@@ -20,5 +20,8 @@
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\ACER\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5</PkgMicrosoft_Extensions_ApiDescription_Server>
     <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\ACER\.nuget\packages\awssdk.core\3.7.100.14</PkgAWSSDK_Core>
     <PkgAWSSDK_SecurityToken Condition=" '$(PkgAWSSDK_SecurityToken)' == '' ">C:\Users\ACER\.nuget\packages\awssdk.securitytoken\3.7.100.14</PkgAWSSDK_SecurityToken>
+    <PkgChinchilla_StateManagement Condition=" '$(PkgChinchilla_StateManagement)' == '' ">C:\Users\ACER\.nuget\packages\chinchilla.statemanagement\4.2.11</PkgChinchilla_StateManagement>
+    <PkgChinchilla_Logging Condition=" '$(PkgChinchilla_Logging)' == '' ">C:\Users\ACER\.nuget\packages\chinchilla.logging\5.1.40</PkgChinchilla_Logging>
+    <PkgCqrs Condition=" '$(PkgCqrs)' == '' ">C:\Users\ACER\.nuget\packages\cqrs\5.1.0.44</PkgCqrs>
   </PropertyGroup>
 </Project>
