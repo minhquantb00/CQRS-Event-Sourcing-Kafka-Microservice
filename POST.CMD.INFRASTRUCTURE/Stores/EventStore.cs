@@ -3,6 +3,7 @@ using CQRS.CORE.Domain;
 using CQRS.CORE.Events;
 using CQRS.CORE.Exceptions;
 using CQRS.CORE.Infrastructure;
+using CQRS.CORE.Producers;
 using POST.CMD.DOMAIN.Aggregates;
 using System;
 using System.Collections.Generic;
@@ -15,9 +16,11 @@ namespace POST.CMD.INFRASTRUCTURE.Stores
     public class EventStore : IEventStore
     {
         private readonly IEventStoreRepository _eventStoreRepository;
-        public EventStore(IEventStoreRepository eventStoreRepository)
+        private readonly IEventProducer _eventProducer;
+        public EventStore(IEventStoreRepository eventStoreRepository, IEventProducer eventProducer)
         {
             _eventStoreRepository = eventStoreRepository;
+            _eventProducer = eventProducer;
         }
 
         public async Task<List<BaseEvent>> GetEventsAsync(Guid aggregateId)
@@ -53,6 +56,9 @@ namespace POST.CMD.INFRASTRUCTURE.Stores
                     EventData = @event
                 };
                 await _eventStoreRepository.SaveAsync(eventModel);
+
+                var topic = Environment.GetEnvironmentVariable("KAFKA_TOPIC");
+                await _eventProducer.ProducerAsync(topic, @event);
             }
         }
     }
