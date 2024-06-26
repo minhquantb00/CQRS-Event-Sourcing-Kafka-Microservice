@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using POST.QUERY.DOMAIN.IRepositories;
 using POST.QUERY.INFRASTRUCTURE.DataAccess;
+using POST.QUERY.INFRASTRUCTURE.Handlers;
+using POST.QUERY.INFRASTRUCTURE.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +11,9 @@ Action<DbContextOptionsBuilder> configureDbContext = (o => o.UseLazyLoadingProxi
 
 builder.Services.AddDbContext<DatabaseContext>(configureDbContext);
 builder.Services.AddSingleton<DatabaseContextFactory>(new DatabaseContextFactory(configureDbContext));
+builder.Services.AddScoped<IPostRepository, PostRepository>();
+builder.Services.AddScoped<ICommentRepository, CommentRepository>();
+builder.Services.AddScoped<IEventHandler, POST.QUERY.INFRASTRUCTURE.Handlers.EventHandler>();
 
 var dataContext = builder.Services.BuildServiceProvider().GetRequiredService<DatabaseContext>();
 dataContext.Database.EnsureCreated();
