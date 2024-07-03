@@ -41,7 +41,6 @@ namespace POST.QUERY.INFRASTRUCTURE.Converters
                 nameof(CommentRemovedEvent) => JsonSerializer.Deserialize<CommentRemovedEvent>(json, options),
                 nameof(PostRemovedEvent) => JsonSerializer.Deserialize<PostRemovedEvent>(json, options),
                 _ => throw new System.Text.Json.JsonException($"{typeDiscriminator} is not supported yet!")
-
             };
         }
 
